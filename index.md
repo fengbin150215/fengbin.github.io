@@ -1,6 +1,6 @@
 ## Bin Feng
 
-location: Zhejiang university, Hangzhou, Zhejiang, 310027 China
+Zhejiang university, Hangzhou, Zhejiang, 310027 China
 
 Tel: +86 18758881079
 
