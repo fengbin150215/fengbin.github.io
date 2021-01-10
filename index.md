@@ -1,7 +1,9 @@
 ## Bin Feng
 
 location: Zhejiang university, Hangzhou, Zhejiang, 310027 China
+
 Tel: +86 18758881079
+
 Email: fengbinhz@zju.edu.cn
 
 ### EDUCATION
@@ -10,7 +12,7 @@ Email: fengbinhz@zju.edu.cn
 
 College of Electrical Engineering, Zhejiang University
 
-* Supervisor:Prof. Chuangxin Guo, Vice Dean 
+* Supervisor: Prof.Chuangxin Guo, Vice Dean 
 * RANKING: **1**/16
 
 ###### AWARDS:
