@@ -1,10 +1,77 @@
-## Welcome to GitHub Pages
+## Bin Feng
 
-You can use the [editor on GitHub](https://github.com/fengbin150215/fengbin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+location: Zhejiang university, Hangzhou, Zhejiang, 310027 China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tel: +86 18758881079
 
-### Markdown
+Email: fengbinhz@zju.edu.cn
+
+### EDUCATION
+
+
+Sep. 2019 -- present
+
+PhD candidate in Electrical Engineering
+
+College of Electrical Engineering, Zhejiang University
+
+    \begin{itemize}[leftmargin=*]
+        \item     Supervisor:Prof. Chuangxin Guo, Vice Dean 
+        \item     RANKING:  \textbf{\color{darkgray}1}/16
+    \end{itemize}
+
+
+    \textbf{\color{darkgray}AWARDS:}
+        \begin{itemize}[leftmargin=*]
+        \item  Freshman Scholarship for Direct Study of PhD students (2019) 
+        \item  CSR Sifang Scholarship (2019-2020)
+        \item  Zhejiang University Outstanding Undergraduate (2019-2020) 
+        \item  Zhejiang University Miyoshi Undergraduate (2019-2020)
+        \item  National first prize, National Post-Graduate Mathematical Contest in Modeling
+    \end{itemize}
+
+
+​    
+    % \begin{itemize}[leftmargin=*]
+    %     \item fake degree description (sunt in culpa qui officia deserunt mollit anim id est laborum)
+    %     \item fake thesis description (lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    %           incididunt ut labore et dolore magna aliqua)
+    %     \item fake details (ut enim ad minim veniam)
+    % \end{itemize}
+}
+
+% bachelor's
+\cvitem{
+    \cvdurationstyle{Sep. 2015 -- June 2019}
+}{
+    \cvtitle{Bachelors's degree in Electrical Engineering}
+
+    School of Electrical and Electronic Engineering, North China Electric Power University
+    
+    \begin{itemize}[leftmargin=*]
+        \item     GPA:      4.22/5.0
+        \item     RANKING:  4/373
+    \end{itemize}
+    
+    \textbf{\color{darkgray}AWARDS:}
+    \begin{itemize}[leftmargin=*]
+        \item  Beijing Outstanding Graduates
+        \item  National Scholarship, Pacemaker to Merit Student(2015-2016)
+        \item  First-class Scholarship (2015-2016,2016-2017,2017-2018)
+        \item  Miyoshi University Students(2016-1027,2017-2018)
+        \item  Beijing Second Prize,  Contemporary Undergraduate Mathematical Contest in 
+        
+        Modeling
+        \item  National Third Prize, National University Student Social Practice and Science Contest on Energy Saving & Emission Reduction
+        \item  Third Prize, The 9th "Challenge Cup" Capital College Students Extracurricular Academic Science and Technology Works Competition 
+
+
+​        
+    \end{itemize}
+
+}
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
