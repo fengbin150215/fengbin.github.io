@@ -17,10 +17,10 @@ College of Electrical Engineering, Zhejiang University
 
 ###### AWARDS:
 
-+ Freshman Scholarship for Direct Study of PhD students (2019) 
++ Freshman Scholarship for Direct Study of PhD students (2019)
 + CSR Sifang Scholarship (2019-2020)
-+ Zhejiang University Outstanding Undergraduate (2019-2020) 
-+ Zhejiang University Miyoshi Undergraduate (2019-2020)
++ Zhejiang University Outstanding Postgraduate (2019-2020)
++ Zhejiang University Miyoshi Postgraduate (2019-2020)
 + National first prize, National Post-Graduate Mathematical Contest in Modeling
 
 #### Bachelors's degree in Electrical Engineering (Sep. 2015 -- June 2019)
